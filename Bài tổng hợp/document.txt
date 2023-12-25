@@ -1,0 +1,40 @@
+// b1
+SEO là từ viết tắt của Search Engine Optimization (tối ưu hóa công cụ tìm kiếm), là một quy trình nâng cao thứ hạng của website trên 
+các công cụ tìm kiếm giúp người dùng có thể tìm thấy trang web dễ dàng hơn trên bảng kết quả tìm kiếm.
+
+//b2
+*<article>
+    article là phần tử để bao bọc nội dung độc lập, nó có thể là một bài post của diễn đàn,
+    một bài viết của trang, một bài báo, một bình luận ... hoặc bất kỳ một nội dung độc lập nào.
+*<section>
+    Thẻ <section> dùng để phân chia một cách logic một trang, một article. Vậy Thẻ <section> dùng để chia nội dung trong một article.
+    Ví dụ như trang chủ có thể có một <section> chứa thông tin giới thiệu về công ty,
+   <section> khác chứa mục tin tức, <section> khác chứa thông tin liên hệ ... 
+*<aside>
+    <aside> được hiểu như nội dung thứ cấp của phần nội dung chính của trang. <aside> thường dùng để biểu diễn sidebar. 
+    Khi một <aside> sử dụng trong <article> thì nội dung trong <aside> liên quan đến <aside> 
+*<details>
+    Tag <details> xác định thêm chi tiết hoặc điều khiển có thể được ẩn hoặc hiển thị theo yêu cầu. Nội dung của tag <details> không được hiển thị, trừ khi thuộc tính open được thiết lập.
+    Tag <details> thường được dùng kèm với tag <summary>, để làm tiêu đề cho <details>.
+*<summary>
+    Thẻ summary sẽ định nghĩa một tiêu đề của thẻ details. 
+    Tiêu đề này sẽ được người dùng thấy và xác định nội dung mà thẻ details đã ẩn đi.
+*<figcaption>
+    Thẻ <figcaption> được dùng để tạo một tiêu đề cho nội dung được đặt bên trong phần tử 
+*<figure>
+    Tag <figure> xác định các nội dung liên quan mạch lạc với nhau, như hình ảnh, sơ đồ, code,...
+    Nội dung của tag <figure> nên liên quan tới nội dung chính.
+    Tag <figure> thường dùng kèm với <figcaption> để chỉ một chú thích.
+*<footer>
+    Tag <footer> định nghĩa khu vực footer (phần cuối) của trang.
+    Thường chứa các thông tin liên lạc của tác giả, nguồn gốc của bài viết.
+*<main>
+    Main là phần thân trang, nó thường được dùng để chứa các nội dung chính của trang web.
+*<header>
+    Header là phần đầu trang, nó chủ yếu chứa một vài thông tin, tiêu đề, logo, liên hệ, ....
+*<mark>
+    Thẻ <mark> dùng để đánh dấu màu nền nổi bật cho văn bản (màu vàng).
+*<nav>
+    Tag <nav> định nghĩa link danh mục (navigation).
+    Thẻ nav được dùng để bao bọc các vị trí liên quan đến liên kết và điều hướng chính cho trang web.
+    Thường đó sẽ là các menu chính, menu phụ, danh sách chuyên mục bên sidebar ...
